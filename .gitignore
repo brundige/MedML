@@ -1,0 +1,7 @@
+# Ignore dataset images and other large/generated files
+__pycache__/
+dataset/images/
+*.h5
+*.csv
+*.ipynb_checkpoints/
+
